@@ -1,0 +1,10 @@
+.divClass{
+    text-align: center;
+    padding: 30px;
+}
+.dateInput{
+    width: 30%;
+}
+.dateInput , .btn{
+    margin: 5px;
+}
